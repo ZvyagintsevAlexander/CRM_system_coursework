@@ -1,0 +1,46 @@
+C:\Users\Alex\source\repos\coursework1\coursework1\bin\Debug\coursework1.exe.config
+C:\Users\Alex\source\repos\coursework1\coursework1\bin\Debug\coursework1.exe
+C:\Users\Alex\source\repos\coursework1\coursework1\bin\Debug\coursework1.pdb
+C:\Users\Alex\source\repos\coursework1\coursework1\obj\Debug\coursework.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\coursework1\coursework1\obj\Debug\coursework1.Properties.Resources.resources
+C:\Users\Alex\source\repos\coursework1\coursework1\obj\Debug\coursework.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\coursework1\coursework1\obj\Debug\coursework.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\coursework1\coursework1\obj\Debug\coursework1.exe
+C:\Users\Alex\source\repos\coursework1\coursework1\obj\Debug\coursework1.pdb
+C:\Users\Alex\source\repos\coursework1\coursework1\obj\Debug\coursework1.CreateOrderForm.resources
+C:\Users\Alex\source\repos\coursework1\coursework1\obj\Debug\coursework1.EditOrderForm.resources
+C:\Users\Alex\source\repos\coursework1\coursework1\obj\Debug\coursework1.ClientsForm.resources
+C:\Users\Alex\source\repos\coursework1\coursework1\obj\Debug\coursework1.CurrentOrdersForm.resources
+C:\Users\Alex\source\repos\coursework1\coursework1\obj\Debug\coursework1.OrderHistoryForm.resources
+C:\Users\Alex\Desktop\второй сейв\coursework1\coursework1\bin\Debug\coursework1.exe.config
+C:\Users\Alex\Desktop\второй сейв\coursework1\coursework1\bin\Debug\coursework1.exe
+C:\Users\Alex\Desktop\второй сейв\coursework1\coursework1\bin\Debug\coursework1.pdb
+C:\Users\Alex\Desktop\второй сейв\coursework1\coursework1\obj\Debug\coursework.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\второй сейв\coursework1\coursework1\obj\Debug\coursework1.ClientsForm.resources
+C:\Users\Alex\Desktop\второй сейв\coursework1\coursework1\obj\Debug\coursework1.EditOrderForm.resources
+C:\Users\Alex\Desktop\второй сейв\coursework1\coursework1\obj\Debug\coursework1.CreateOrderForm.resources
+C:\Users\Alex\Desktop\второй сейв\coursework1\coursework1\obj\Debug\coursework1.CurrentOrdersForm.resources
+C:\Users\Alex\Desktop\второй сейв\coursework1\coursework1\obj\Debug\coursework1.OrderHistoryForm.resources
+C:\Users\Alex\Desktop\второй сейв\coursework1\coursework1\obj\Debug\coursework1.Properties.Resources.resources
+C:\Users\Alex\Desktop\второй сейв\coursework1\coursework1\obj\Debug\coursework.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\второй сейв\coursework1\coursework1\obj\Debug\coursework.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\второй сейв\coursework1\coursework1\obj\Debug\coursework1.exe
+C:\Users\Alex\Desktop\второй сейв\coursework1\coursework1\obj\Debug\coursework1.pdb
+C:\Users\Alex\Desktop\второй сейв\coursework1\coursework1\obj\Debug\coursework1.AutorizationForm.resources
+C:\Users\Alex\Desktop\второй сейв\coursework1\coursework1\obj\Debug\coursework1.AutorizationFailedForm.resources
+C:\Users\Alex\Desktop\CRM система службы доставки еды\Новая папка (3)\coursework.main\coursework1\bin\Debug\coursework1.exe.config
+C:\Users\Alex\Desktop\CRM система службы доставки еды\Новая папка (3)\coursework.main\coursework1\bin\Debug\coursework1.exe
+C:\Users\Alex\Desktop\CRM система службы доставки еды\Новая папка (3)\coursework.main\coursework1\bin\Debug\coursework1.pdb
+C:\Users\Alex\Desktop\CRM система службы доставки еды\Новая папка (3)\coursework.main\coursework1\obj\Debug\coursework.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\CRM система службы доставки еды\Новая папка (3)\coursework.main\coursework1\obj\Debug\coursework1.AutorizationFailedForm.resources
+C:\Users\Alex\Desktop\CRM система службы доставки еды\Новая папка (3)\coursework.main\coursework1\obj\Debug\coursework1.AutorizationForm.resources
+C:\Users\Alex\Desktop\CRM система службы доставки еды\Новая папка (3)\coursework.main\coursework1\obj\Debug\coursework1.ClientsForm.resources
+C:\Users\Alex\Desktop\CRM система службы доставки еды\Новая папка (3)\coursework.main\coursework1\obj\Debug\coursework1.EditOrderForm.resources
+C:\Users\Alex\Desktop\CRM система службы доставки еды\Новая папка (3)\coursework.main\coursework1\obj\Debug\coursework1.CreateOrderForm.resources
+C:\Users\Alex\Desktop\CRM система службы доставки еды\Новая папка (3)\coursework.main\coursework1\obj\Debug\coursework1.CurrentOrdersForm.resources
+C:\Users\Alex\Desktop\CRM система службы доставки еды\Новая папка (3)\coursework.main\coursework1\obj\Debug\coursework1.OrderHistoryForm.resources
+C:\Users\Alex\Desktop\CRM система службы доставки еды\Новая папка (3)\coursework.main\coursework1\obj\Debug\coursework1.Properties.Resources.resources
+C:\Users\Alex\Desktop\CRM система службы доставки еды\Новая папка (3)\coursework.main\coursework1\obj\Debug\coursework.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\CRM система службы доставки еды\Новая папка (3)\coursework.main\coursework1\obj\Debug\coursework.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\CRM система службы доставки еды\Новая папка (3)\coursework.main\coursework1\obj\Debug\coursework1.exe
+C:\Users\Alex\Desktop\CRM система службы доставки еды\Новая папка (3)\coursework.main\coursework1\obj\Debug\coursework1.pdb

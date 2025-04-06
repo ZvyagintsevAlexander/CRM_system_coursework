@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|c:\\users\\alex\\desktop\\crm \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|solutionrelative:coursework1\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\autorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|solutionrelative:coursework1\\autorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\autorizationfailedform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|solutionrelative:coursework1\\autorizationfailedform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\autorizationfailedform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|solutionrelative:coursework1\\autorizationfailedform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\clientsform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|solutionrelative:coursework1\\clientsform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|solutionrelative:coursework1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\orderhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|solutionrelative:coursework1\\orderhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\editorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|solutionrelative:coursework1\\editorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\currentordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|solutionrelative:coursework1\\currentordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\createorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|solutionrelative:coursework1\\createorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\courseworkdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|solutionrelative:coursework1\\courseworkdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\clientsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|solutionrelative:coursework1\\clientsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\autorizationfailedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|solutionrelative:coursework1\\autorizationfailedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\currentordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1541C624-916E-4DD5-A9A1-B4C5890E25E8}|coursework1\\coursework.csproj|solutionrelative:coursework1\\currentordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\Program.cs",
+              "RelativeDocumentMoniker": "coursework1\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\Program.cs",
+              "RelativeToolTip": "coursework1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:12:27.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutorizationFailedForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\AutorizationFailedForm.Designer.cs",
+              "RelativeDocumentMoniker": "coursework1\\AutorizationFailedForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\AutorizationFailedForm.Designer.cs",
+              "RelativeToolTip": "coursework1\\AutorizationFailedForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:13:24.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutorizationFailedForm.resx",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\AutorizationFailedForm.resx",
+              "RelativeDocumentMoniker": "coursework1\\AutorizationFailedForm.resx",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\AutorizationFailedForm.resx",
+              "RelativeToolTip": "coursework1\\AutorizationFailedForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-06T15:13:32.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\ClientsForm.cs",
+              "RelativeDocumentMoniker": "coursework1\\ClientsForm.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\ClientsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "coursework1\\ClientsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:12:25.437Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\AutorizationForm.cs",
+              "RelativeDocumentMoniker": "coursework1\\AutorizationForm.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\AutorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "coursework1\\AutorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:12:26.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientsForm.resx",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\ClientsForm.resx",
+              "RelativeDocumentMoniker": "coursework1\\ClientsForm.resx",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\ClientsForm.resx",
+              "RelativeToolTip": "coursework1\\ClientsForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-06T15:12:44.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderHistoryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\OrderHistoryForm.cs",
+              "RelativeDocumentMoniker": "coursework1\\OrderHistoryForm.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\OrderHistoryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "coursework1\\OrderHistoryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:12:30.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditOrderForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\EditOrderForm.cs",
+              "RelativeDocumentMoniker": "coursework1\\EditOrderForm.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\EditOrderForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "coursework1\\EditOrderForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:12:31.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CurrentOrdersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\CurrentOrdersForm.cs",
+              "RelativeDocumentMoniker": "coursework1\\CurrentOrdersForm.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\CurrentOrdersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "coursework1\\CurrentOrdersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:08:33.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateOrderForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\CreateOrderForm.cs",
+              "RelativeDocumentMoniker": "coursework1\\CreateOrderForm.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\CreateOrderForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "coursework1\\CreateOrderForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:12:32.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "courseworkDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\courseworkDataSet.xsd",
+              "RelativeDocumentMoniker": "coursework1\\courseworkDataSet.xsd",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\courseworkDataSet.xsd",
+              "RelativeToolTip": "coursework1\\courseworkDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-04-06T15:12:34.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\ClientsForm.Designer.cs",
+              "RelativeDocumentMoniker": "coursework1\\ClientsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\ClientsForm.Designer.cs",
+              "RelativeToolTip": "coursework1\\ClientsForm.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:12:39.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutorizationFailedForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\AutorizationFailedForm.cs",
+              "RelativeDocumentMoniker": "coursework1\\AutorizationFailedForm.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\AutorizationFailedForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "coursework1\\AutorizationFailedForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:12:23.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CurrentOrdersForm.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\CurrentOrdersForm.cs",
+              "RelativeDocumentMoniker": "coursework1\\CurrentOrdersForm.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\CRM \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043B\u0443\u0436\u0431\u044B \u0434\u043E\u0441\u0442\u0430\u0432\u043A\u0438 \u0435\u0434\u044B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\coursework.main\\coursework1\\CurrentOrdersForm.cs",
+              "RelativeToolTip": "coursework1\\CurrentOrdersForm.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwEgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:08:33.806Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
